@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630964254372",
+    "project_id": "flash-chat-cd105",
+    "storage_bucket": "flash-chat-cd105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630964254372:android:1c267d2a276c254ec6d831",
+        "android_client_info": {
+          "package_name": "com.vachan.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630964254372-uoroa2fj9ktg835g26bgjegmbh8hr66m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiz8gsC5MkpWTP9FjbgSPCmoRLPVmNAqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630964254372-uoroa2fj9ktg835g26bgjegmbh8hr66m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
